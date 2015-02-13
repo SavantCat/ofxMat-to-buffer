@@ -1,0 +1,2 @@
+# ofximg-to-buffer
+ofxのimencode関数が動かないのでMatからipegやpngに変換してからunsigned char配列に変換する

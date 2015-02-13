@@ -1,2 +1,2 @@
 # ofxMat-to-buffer
-ofxCvのimencode関数が動かないのでMatからipegやpngに変換してからunsigned char配列に変換する
+ofxCvのimencode関数が動かないのでMatからjpegやpngに変換してからunsigned char配列に変換する
